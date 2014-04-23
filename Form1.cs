@@ -22,5 +22,10 @@ namespace GITHUB1
             MessageBox.Show("Hello GITHUB");
             MessageBox.Show("HELLO");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello FROM BUTTON2");
+        }
     }
 }
